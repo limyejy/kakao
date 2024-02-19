@@ -1,0 +1,159 @@
+.content_title_all{
+    width: 100%;
+    height: 150px;
+    font-family: 'NanumBarunGothic';
+   }
+
+.esg_banner{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    clear: both;
+}
+
+.esg_sec_01_all{
+    display: flex;
+    flex-flow: row nowrap;
+    width: 1650px;
+}
+
+.esg_sec_01{
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.sec_02_right{
+    display: flex;
+    flex-flow: column;
+    gap: 75px;
+}
+
+.esg_sec_title{
+    width: 100%;
+    height: 30px;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+    display: flex;
+    justify-content: center;
+}
+
+.esg_movie_all{
+    display: flex;
+    justify-content: center;
+}
+
+.sec_02_all{
+    width: 1650px;
+}
+
+.sec_02{
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 20px;
+}
+
+#sec_02_each_1{
+    
+    width: 530px;
+    height: 680px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+    background-image: url(./esg_sec_02_01.png);
+    background-size: cover;
+
+}
+
+#sec_02_each_2{
+    width: 530px;
+    height: 680px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+    background-image: url(./esg_sec_02_02.png);
+    background-size: cover;
+
+}
+
+#sec_02_each_3{
+    width: 530px;
+    height: 680px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+    background-image: url(./esg_sec_02_03.png);
+    background-size: cover;
+
+}
+
+.sec_03_all{
+    width:1650px;;
+}
+
+.sec_03{
+    display: flex;
+    flex-flow: row nowrap;
+gap: 30px;}
+
+
+
+
+
+   .content_title{
+    font-size: 3.5rem;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_box{
+    width: 250px;
+    line-height: 160px;
+    flex-flow: row;
+    display: flex;
+    margin-left: 11rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #content_sub_title{
+    font-size: 3rem;
+    width: 1200px;
+    margin-left: 4rem;
+    font-family: 'NanumBarunGothic';
+    
+   }
+
+   .sec_03_all{
+    display: flex;
+    flex-flow: row nowrap;
+   }
+
+   #top_button{
+    font-family: 'NanumSquareNeo-Variable';
+    font-weight: bold;
+    width: 60px;
+    height: 60px;
+    border-radius: 55px;
+    background-color:  black;
+    border: none;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    line-height: 55px;
+    float: right;
+    margin-right: 2rem;
+}
+
+
+
+
+
+

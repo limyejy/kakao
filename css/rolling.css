@@ -1,0 +1,187 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+html {
+    background: url('images/yourimage.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+.rolling_banner_title{
+    width: 1420px;
+    height: 150px;
+
+}
+
+.rolling_banner_title_all_box{
+    width: 1420px;
+    height: 150px;
+    float: left;
+}
+
+.rolling_banner_title_all{
+    width: 950px;
+    height: 150px;
+    float: left;
+
+    display: flex;
+    flex-flow: row nowrap;
+    gap: -6rem;
+    line-height: 150px;
+}
+
+#main_title{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 40pt;
+    letter-spacing: -0.1rem;
+    line-height: 80px;
+    letter-spacing: -2px;
+}
+
+.gap_100_150{
+    width: 100%;
+    height: 150px;
+}
+
+.rolling_panel { 
+    position: relative; 
+    width: 100%; 
+    height: 460px;
+    margin: 0; 
+    padding: 0;  
+    overflow: hidden; 
+}
+.rolling_panel ul { 
+    position: absolute; 
+    margin: 5px; 
+    padding: 0; 
+    list-style: none;
+    display: flex;
+    flex-flow: row nowrap;
+}
+.rolling_panel ul li { 
+    float: left; 
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+}
+#rolling_banner_each_box_1{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_1.png);
+    background-size: cover;
+
+}
+
+#rolling_banner_each_box_2{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_8.png);
+    background-size: cover;
+
+}
+
+
+
+#rolling_banner_each_box_3{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_2.png);
+    background-size: cover;
+
+}
+
+#rolling_banner_each_box_4{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_7.png);
+    background-size: cover;
+
+}
+
+
+
+#rolling_banner_each_box_7{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_3.png);
+    background-size: cover;
+
+}
+
+#rolling_banner_each_box_8{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_4.png);
+    background-size: cover;
+
+}
+
+#rolling_banner_each_box_9{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_5.png);
+    background-size: cover;
+
+}
+
+
+#rolling_banner_each_box_10{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+    float: left;
+    background-image: url(./rolling_banner_6.png);
+    background-color: none;
+
+}
+
+
+
+
+#rolling_banner_each{
+    width: 340px; 
+    height: 460px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+#more_button_text{
+    position: absolute;
+    float: right;
+    margin-top: 3rem;
+    z-index: 3;
+    margin-left: -5rem;
+}
+
+
+.wrap .rolling-list ul {
+    padding : 0px;
+    display: flex;
+}
+.wrap .rolling-list ul li { 
+    box-sizing: border-box; 
+    display: flex; 
+    align-items: center; 
+    flex-shrink: 0; 
+}
+

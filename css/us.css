@@ -1,0 +1,153 @@
+
+.us_title_all{
+    width: 1420px;
+    height: 150px;
+    font-family: 'NanumBarunGothic';
+   }
+
+   .us_title{
+    font-size: 3.5rem;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #us_icon{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_box{
+    width: 280px;
+    line-height: 160px;
+    flex-flow: row;
+    display: flex;
+    margin-left: -0rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #sub_title{
+    font-size: 3rem;
+    width: 600px;
+    margin-left: 3rem;
+    font-family: 'NanumBarunGothic';
+    
+   }
+
+   
+   .us_text{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    font-family: 'NanumBarunGothic';
+    text-align: left;
+    overflow-x: hidden;
+   }
+
+   #us_title_2{
+    width: 1350px;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+    text-align: left;
+    
+   }
+
+   #us_title_sub{
+    width: 1350px;
+    text-align: left;
+    font-size: 1.4rem;
+    color: rgb(61, 61, 61);
+    line-height: 30px;
+    font-family: 'NanumBarunGothic';
+   }
+
+   .us_sec{
+    width: 1350px;
+    overflow-x: hidden;
+    display: flex;
+    flex-flow: row nowrap;
+   }
+
+   .sec_3{
+    width: 100%;
+    background-color: blue;
+   }
+
+   .us_sec_3{
+    width: 1350px;
+    overflow-x: hidden;
+    background-color: red;
+    float: left;
+   }
+
+
+   .us_sec_1{
+    width: 675px;
+    height: 550px;
+    text-align: left;
+    font-family: 'NanumBarunGothic';
+   }
+   .us_sec_2{
+    width: 675px;
+    height: 550px;
+    text-align: left;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #us_sec_title{
+    font-size: 2.5rem;
+    font-weight: bold;
+    height: 50px;
+   }
+
+   #us_sec_title_sub{
+    font-size: 2.5rem;
+    height: 120px;
+    vertical-align: center;
+   }
+
+  #us_sec_description{
+    line-height: 25px;
+    font-size: 1.2rem;
+    color: gray;
+   }
+
+   #us_sec_description_2{
+    line-height: 20px;
+    font-size: 1.2rem;
+    color: gray;
+   }
+
+   #logo{
+    float: left;
+    margin-left: -0.5rem;
+   }
+
+   .footer{
+    overflow-x: hidden;
+   }
+
+  
+
+ #top_button{
+     font-family: 'NanumSquareNeo-Variable';
+     font-weight: bold;
+     width: 60px;
+     height: 60px;
+     border-radius: 55px;
+     background-color:  black;
+     border: none;
+     color: white;
+
+     display: flex;
+     justify-content: center;
+     line-height: 55px;
+     float: right;
+     margin-right: 2rem;
+ }
+
+
+ 
+ 

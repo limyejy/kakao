@@ -1,0 +1,165 @@
+
+.title_all{
+    width: 1420px;
+    height: 150px;
+    font-family: 'NanumBarunGothic';
+   }
+
+   .title{
+    font-size: 3.5rem;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_box{
+    width: 280px;
+    line-height: 160px;
+    flex-flow: row;
+    display: flex;
+    margin-left: -0rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #sub_title{
+    font-size: 3rem;
+    width: 600px;
+    margin-left: 3rem;
+    font-family: 'NanumBarunGothic';
+    
+   }
+
+   #sub_title_2{
+    font-size: 2rem;
+    width: 1350px;
+    margin-left: 3rem;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+    
+   }
+
+   .history_table_wrap{
+    width: 100%;
+    height: 4500px;
+    font-family: 'SUITE-Regular';
+   }
+
+   .history_table_all{
+    width: 1350px;
+    height: 4500px;
+    border-left: 3px solid rgb(199, 199, 199);
+    z-index: 999;
+
+   }
+
+   .history_sec{
+    float: left;
+    width:1350px;
+    height: 200px;
+    text-align: left;
+    margin-left: 1rem;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+ 
+   }
+
+   .text_box_history{
+    display: flex;
+    flex-flow: row nowrap;
+    width: 700px;
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: -0.06rem;
+   }
+
+   
+
+   .dot{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 999px;
+    position: absolute;
+    z-index: 999;
+    margin-left: -1.65rem;
+   }
+
+   #year{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 2rem;
+    height: 150px;
+    width: 100px;
+    text-align: center;
+   }
+
+   #month{
+    width: 100px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+   }
+
+   #history_content_text{
+    font-size: 1.5rem;
+    width: 450px;
+    text-align: left;
+    display: flex;
+    flex-flow: column;
+   }
+
+   #history_content_text:hover{
+    font-weight: bold;
+   }
+
+   .icon_box{
+    width: 1350px;
+    display: flex;
+    justify-content: center;
+   }
+
+   #icon_all{
+    margin-top: -5rem;
+   }
+
+   .history_top{
+    margin-top: 5rem;
+   }
+
+
+   
+   
+   .footer{
+    overflow-x: hidden;
+   }
+
+  
+
+ #top_button{
+     font-family: 'NanumSquareNeo-Variable';
+     font-weight: bold;
+     width: 60px;
+     height: 60px;
+     border-radius: 55px;
+     background-color:  black;
+     border: none;
+     color: white;
+
+     display: flex;
+     justify-content: center;
+     line-height: 55px;
+     float: right;
+     margin-right: 2rem;
+ }
+
+
+ 
+ 

@@ -1,0 +1,197 @@
+
+.content_title_all{
+    width: 1420px;
+    height: 150px;
+    font-family: 'NanumBarunGothic';
+   }
+
+   .content_title{
+    font-size: 3.5rem;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_box{
+    width: 400px;
+    line-height: 160px;
+    flex-flow: row;
+    display: flex;
+    margin-left: -0rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #content_sub_title{
+    font-size: 3rem;
+    width: 1000px;
+    margin-left: 3rem;
+    font-family: 'NanumBarunGothic';
+    
+   }
+
+  
+   
+   .footer{
+    overflow-x: hidden;
+   }
+
+   .now_1{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_1.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+    border-radius: 30px;
+   }
+
+   .now_1:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image:url(./now_1.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+    background-size: cover;
+
+    border-radius: 30px;
+   }
+   .now_2{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_2.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+
+   .now_2:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image: url(./now_2.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+   .now_3{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_3.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+
+   .now_3:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image: url(./now_3.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+   .now_4{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_4.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+    background-size: cover;
+   }
+
+   .now_4:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image: url(./now_4.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+   .now_5{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_5.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+    background-size: cover;
+   }
+
+   .now_5:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image: url(./now_5.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+   .now_6{
+    width: 408px;
+    height: 449px;
+    background-image: url(./now_6.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+    background-size: cover;
+   }
+
+   .now_6:hover{
+    width: 408px;
+    height: 449px;
+    margin-top: -10px;
+    transition: 0.5s;
+    background-image: url(./now_6.png);
+    box-shadow: 0px 0px 16px -3px #5F5F5F;
+
+    border-radius: 30px;
+   }
+
+   .content_all{
+    width: 1350px;
+    width: 1500px;
+    display: flex;
+    flex-flow: column;
+    gap: 100px;
+   }
+
+   .content_all_wrap{
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 50px;
+   }
+  
+  
+
+ #top_button{
+     font-family: 'NanumSquareNeo-Variable';
+     font-weight: bold;
+     width: 60px;
+     height: 60px;
+     border-radius: 55px;
+     background-color:  black;
+     border: none;
+     color: white;
+
+     display: flex;
+     justify-content: center;
+     line-height: 55px;
+     float: right;
+     margin-right: 2rem;
+ }
+
+
+ 
+ 
