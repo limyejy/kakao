@@ -153,6 +153,17 @@
     margin-left: 12rem;
 }
 
+#main_title_help{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 40pt;
+    letter-spacing: -0.1rem;
+    line-height: 80px;
+    letter-spacing: -2px;
+    margin-top: -6rem;
+    margin-left: 10rem;
+}
+
+
 .news_all{
     width: 1420px;
     height: 1200px;

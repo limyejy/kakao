@@ -18,6 +18,26 @@
     font-family: 'NanumBarunGothic';
    }
 
+   #icon_content{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_now{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+   #icon_closer{
+    position: relative;
+    margin-top: 2rem;
+    font-family: 'NanumBarunGothic';
+   }
+
+
+
    #icon_box{
     width: 400px;
     line-height: 160px;
