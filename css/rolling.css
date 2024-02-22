@@ -8,19 +8,19 @@ html {
     background-size: cover;
     }
 
-.rolling_banner_title{
+.main_banner_title{
     width: 1420px;
     height: 150px;
 
 }
 
-.rolling_banner_title_all_box{
+.main_banner_title_all_box{
     width: 1420px;
     height: 150px;
     float: left;
 }
 
-.rolling_banner_title_all{
+.main_banner_title_all{
     width: 950px;
     height: 150px;
     float: left;
@@ -188,3 +188,27 @@ html {
     flex-shrink: 0; 
 }
 
+#emt{
+    margin-top: -2rem;
+    margin-left: 1.5rem;
+}
+
+#emt_rolling{
+    margin-top: -2rem;
+}
+
+
+#main_title{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 40pt;
+    letter-spacing: -0.1rem;
+    line-height: 80px;
+    letter-spacing: -2px;
+    margin-top: -1.5rem;
+    margin-left: 2.5rem;
+
+}
+
+.main_banner_title_all{
+    font-size: 40pt;
+}

@@ -5,6 +5,8 @@
     src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
     src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
    }
+
+
    
 
 .main{
@@ -15,6 +17,7 @@
     padding: 0 auto;
     display: flex;
     justify-self: center;
+    overflow-x: hidden;
 }
 
 .main_all{
@@ -23,6 +26,7 @@
     display: flex;
     flex-flow: row nowrap;
     clear: both;
+    overflow-y: hidden;
     
     
 }
