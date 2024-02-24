@@ -1,0 +1,256 @@
+@media (min-width: 1200px) {
+    .mobile_header{
+        display: none;
+    }
+
+    .main_768{
+        display: none;
+    }
+
+    .gap_100_50{
+        display: none;
+    }
+
+    .main_2_768{
+        display: none;
+    }
+
+    .kakao_service_768{
+        display: none;
+    }
+
+    .kakao_news_768{
+        display: none;
+    }
+
+    .esg_help_768{
+        display: none;
+    }
+
+    
+
+
+    
+
+}
+
+/* Mobile - Landscape */
+@media (max-width: 767px) {
+
+    ::-webkit-scrollbar{display: none;}
+
+    
+    @font-face {
+        font-family: 'Pretendard-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+    }
+
+
+    .header{
+        display: none;
+    }
+
+    .mobile_header{
+        display: flex;
+        flex-flow: row nowrap;
+        height: 100px;
+        line-height: 100px;
+        width: 100%;
+
+    }
+
+    .header_imt{
+        display: flex;
+        flex-flow: row nowrap;
+        gap: 4px;
+    }
+
+    #header_logo_m{
+        margin-top: 1rem;
+    }
+
+    .main{display: none;}
+
+    .main_img_768{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+    }
+
+    
+
+    .gap_100_150{
+        display: none;
+    }
+
+    .main_banner_title_all{
+        display: none;
+        font-family: 'Pretendard-Regular';
+    }
+
+    .main_768_title{
+        font-family: 'Pretendard-Regular';
+        width: 470px;
+        height: 100px;
+        display: flex;
+        flex-flow: column;
+    }
+
+    #main_768_title_text{
+        font-family: 'Pretendard-Regular';
+        font-size: 2rem;
+        line-height: 50px;
+        float: left;
+        font-weight: 500;
+    }
+    #main_768_title_text_2{
+        font-family: 'Pretendard-Regular';
+        font-size: 2rem;
+        float: left;
+        font-weight: 500;
+    }
+
+    #main_768_title_text_3{
+        font-family: 'Pretendard-Regular';
+        font-size: 1.5rem;
+        float: left;
+        font-weight: 500;
+        line-height: 50px;
+    }
+
+    .gap_100_50{
+        width: 100%;
+        height: 50px;
+        font-weight: 400;
+    }
+
+    .main_2_768{
+        display: flex;
+        flex-flow:column nowrap;
+        justify-content: center;
+    }
+
+    .middle_banner{
+        display: none;
+    }
+
+    .kakao_service{
+        display: none;
+    }
+
+    .kakao_service_768{
+        width: 480px;
+        height: 500px;
+        margin-left: 5rem;
+        display: flex;
+        flex-flow: column;
+        gap: 20px;
+    }
+
+    .kakao_news_768{
+        width: 480px;
+        height: 500px;
+        margin-left: 5rem;
+
+        gap: 20px;
+    }
+
+
+    #service_each{
+        font-family: 'Pretendard-Regular';
+        width: 240px;
+        height: 100px;
+        background-color: #f3f3f3;
+        border-radius: 30px;
+        float: left;
+        text-align: center;
+        line-height: 100px;
+        font-size: 2rem;
+    }
+
+    .service_wrap{
+        display: flex;
+        flex-flow: row nowrap;
+        gap: 20px;
+    }
+
+    .kakao_news{
+        display:  none;
+    }
+
+    .kakao_esg{
+        display: none;
+    }
+
+    .kakao_help{
+        display: none;
+    }
+
+
+    .news_all{
+        float: left;
+    }
+
+    .esg_banner_all{
+        display: flex;
+        flex-flow: column nowrap;
+        width: 480px;
+        margin-left: 0rem;
+        height: 800px;
+    }
+
+    .slides{
+        width: 480px;
+        height: 300px;
+    }
+
+    .flexslider{
+        width: 200px;
+        height:200px;
+    }
+
+    .esg_help_768{
+        width: 480px;
+        float: left;
+        margin-left: 5rem;
+        display: flex;
+        flex-flow: column nowrap;
+   
+    }
+
+    .main_banner_wrap_m{
+        display: flex;
+        flex-flow: column;
+        gap: 20px;
+    }
+
+    .help_banner_wrap_m{
+        display: flex;
+        flex-flow: row wrap;
+        gap: 10px;
+        width: 480px;
+        height: 100px;
+    }
+
+    #help_banner_m{
+        width: 150px;
+        height: 100px;
+        color: black;
+        background-color: #f3f3f3;
+        border-radius: 10px;
+        font-family: 'Pretendard-Regular';
+        font-size: 1.5rem;
+        text-align: left;
+        line-height:30px;
+        padding-left: 1rem;
+        padding-top: 1rem;
+    }
+
+
+    
+
+
+
+}
